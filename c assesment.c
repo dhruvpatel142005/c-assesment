@@ -21,7 +21,7 @@ int main()
         printf("\nEnter your choice: ");
         scanf("%d", &choice);
 
-        if (choice >= 1 && choice <= 5) 
+        if (choice >= 1 && choice <= 4) 
         {
            printf("\nEnter the value of num1= ");
            scanf("%d",&num1);
